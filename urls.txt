@@ -1,0 +1,4 @@
+to get all sections
+http://content.guardianapis.com/sections?&api-key=7aac4d65-c46e-472f-81c3-75619f9e34df
+to get world news
+http://content.guardianapis.com/search?&section=world&api-key=7aac4d65-c46e-472f-81c3-75619f9e34df

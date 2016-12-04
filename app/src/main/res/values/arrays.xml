@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_section_labels">
+        <item>@string/settings_section_Art_and_design_label</item>
+
+        <item>@string/settings_section_Australia_news_label</item>
+
+        <item>@string/settings_section_Better_Business_label</item>
+
+        <item>@string/settings_section_Books_label</item>
+
+        <item>@string/settings_section_Business_label</item>
+
+        <item>@string/settings_section_Cardiff_label</item>
+
+        <item>@string/settings_section_Childrens_books_label</item>
+
+        <item>@string/settings_section_Cities_label</item>
+
+        <item>@string/settings_section_Opinion_label</item>
+
+        <item>@string/settings_section_Community_label</item>
+
+        <item>@string/settings_section_Crosswords_label</item>
+
+        <item>@string/settings_section_Culture_label</item>
+
+        <item>@string/settings_section_Culture_Network_label</item>
+
+        <item>@string/settings_section_Culture_professionals_network_label</item>
+
+        <item>@string/settings_section_Edinburgh_label</item>
+
+        <item>@string/settings_section_Education_label</item>
+
+        <item>@string/settings_section_Guardian_Enterprise_Network_label</item>
+
+        <item>@string/settings_section_Environment_label</item>
+
+        <item>@string/settings_section_Extra_label</item>
+
+        <item>@string/settings_section_Fashion_label</item>
+
+        <item>@string/settings_section_Film_label</item>
+
+        <item>@string/settings_section_Football_label</item>
+
+        <item>@string/settings_section_Global_development_label</item>
+
+        <item>@string/settings_section_Global_Development_Professionals_Network_label</item>
+
+        <item>@string/settings_section_Guardian_Government_Computing_label</item>
+
+        <item>@string/settings_section_Guardian_Professional_label</item>
+
+        <item>@string/settings_section_Healthcare_Professionals_Network_label</item>
+
+        <item>@string/settings_section_Help_label</item>
+
+        <item>@string/settings_section_Higher_Education_Network_label</item>
+
+        <item>@string/settings_section_Housing_Network_label</item>
+
+        <item>@string/settings_section_Info_label</item>
+
+        <item>@string/settings_section_Jobs_label</item>
+
+        <item>@string/settings_section_Katine_label</item>
+
+        <item>@string/settings_section_Law_label</item>
+
+        <item>@string/settings_section_Leeds_label</item>
+
+        <item>@string/settings_section_Life_and_style_label</item>
+
+        <item>@string/settings_section_Local_label</item>
+
+        <item>@string/settings_section_Local_Leaders_Network_label</item>
+
+        <item>@string/settings_section_Media_label</item>
+
+        <item>@string/settings_section_Media_Network_label</item>
+
+        <item>@string/settings_section_Membership_label</item>
+
+        <item>@string/settings_section_Money_label</item>
+
+        <item>@string/settings_section_Music_label</item>
+
+        <item>@string/settings_section_News_label</item>
+
+        <item>@string/settings_section_Politics_label</item>
+
+        <item>@string/settings_section_Public_Leaders_Network_label</item>
+
+        <item>@string/settings_section_Science_label</item>
+
+        <item>@string/settings_section_Search_label</item>
+
+        <item>@string/settings_section_Guardian_Small_Business_Network_label</item>
+
+        <item>@string/settings_section_Social_Care_Network_label</item>
+
+        <item>@string/settings_section_Social_Enterprise_Network_label</item>
+
+        <item>@string/settings_section_Society_label</item>
+
+        <item>@string/settings_section_Society_Professionals_label</item>
+
+        <item>@string/settings_section_Sport_label</item>
+
+        <item>@string/settings_section_Stage_label</item>
+
+        <item>@string/settings_section_Teacher_Network_label</item>
+
+        <item>@string/settings_section_Technology_label</item>
+
+        <item>@string/settings_section_From_the_Guardian_label</item>
+
+        <item>@string/settings_section_From_the_Observer_label</item>
+
+        <item>@string/settings_section_Travel_label</item>
+
+        <item>@string/settings_section_Guardian_holiday_offers_label</item>
+
+        <item>@string/settings_section_Television_and_radio_label</item>
+
+        <item>@string/settings_section_UK_news_label</item>
+
+        <item>@string/settings_section_US_news_label</item>
+
+        <item>@string/settings_section_Voluntary_Sector_Network_label</item>
+
+        <item>@string/settings_section_Weather_label</item>
+
+        <item>@string/settings_section_Women_in_Leadership_label</item>
+
+        <item>@string/settings_section_World_news_label</item>
+    </string-array>
+    <string-array name="settings_section_values">
+        <item>@string/settings_section_Art_and_design_value</item>
+
+        <item>@string/settings_section_Australia_news_value</item>
+
+        <item>@string/settings_section_Better_Business_value</item>
+
+        <item>@string/settings_section_Books_value</item>
+
+        <item>@string/settings_section_Business_value</item>
+
+        <item>@string/settings_section_Cardiff_value</item>
+
+        <item>@string/settings_section_Childrens_books_value</item>
+
+        <item>@string/settings_section_Cities_value</item>
+
+        <item>@string/settings_section_Opinion_value</item>
+
+        <item>@string/settings_section_Community_value</item>
+
+        <item>@string/settings_section_Crosswords_value</item>
+
+        <item>@string/settings_section_Culture_value</item>
+
+        <item>@string/settings_section_Culture_Network_value</item>
+
+        <item>@string/settings_section_Culture_professionals_network_value</item>
+
+        <item>@string/settings_section_Edinburgh_value</item>
+
+        <item>@string/settings_section_Education_value</item>
+
+        <item>@string/settings_section_Guardian_Enterprise_Network_value</item>
+
+        <item>@string/settings_section_Environment_value</item>
+
+        <item>@string/settings_section_Extra_value</item>
+
+        <item>@string/settings_section_Fashion_value</item>
+
+        <item>@string/settings_section_Film_value</item>
+
+        <item>@string/settings_section_Football_value</item>
+
+        <item>@string/settings_section_Global_development_value</item>
+
+        <item>@string/settings_section_Global_Development_Professionals_Network_value</item>
+
+        <item>@string/settings_section_Guardian_Government_Computing_value</item>
+
+        <item>@string/settings_section_Guardian_Professional_value</item>
+
+        <item>@string/settings_section_Healthcare_Professionals_Network_value</item>
+
+        <item>@string/settings_section_Help_value</item>
+
+        <item>@string/settings_section_Higher_Education_Network_value</item>
+
+        <item>@string/settings_section_Housing_Network_value</item>
+
+        <item>@string/settings_section_Info_value</item>
+
+        <item>@string/settings_section_Jobs_value</item>
+
+        <item>@string/settings_section_Katine_value</item>
+
+        <item>@string/settings_section_Law_value</item>
+
+        <item>@string/settings_section_Leeds_value</item>
+
+        <item>@string/settings_section_Life_and_style_value</item>
+
+        <item>@string/settings_section_Local_value</item>
+
+        <item>@string/settings_section_Local_Leaders_Network_value</item>
+
+        <item>@string/settings_section_Media_value</item>
+
+        <item>@string/settings_section_Media_Network_value</item>
+
+        <item>@string/settings_section_Membership_value</item>
+
+        <item>@string/settings_section_Money_value</item>
+
+        <item>@string/settings_section_Music_value</item>
+
+        <item>@string/settings_section_News_value</item>
+
+        <item>@string/settings_section_Politics_value</item>
+
+        <item>@string/settings_section_Public_Leaders_Network_value</item>
+
+        <item>@string/settings_section_Science_value</item>
+
+        <item>@string/settings_section_Search_value</item>
+
+        <item>@string/settings_section_Guardian_Small_Business_Network_value</item>
+
+        <item>@string/settings_section_Social_Care_Network_value</item>
+
+        <item>@string/settings_section_Social_Enterprise_Network_value</item>
+
+        <item>@string/settings_section_Society_value</item>
+
+        <item>@string/settings_section_Society_Professionals_value</item>
+
+        <item>@string/settings_section_Sport_value</item>
+
+        <item>@string/settings_section_Stage_value</item>
+
+        <item>@string/settings_section_Teacher_Network_value</item>
+
+        <item>@string/settings_section_Technology_value</item>
+
+        <item>@string/settings_section_From_the_Guardian_value</item>
+
+        <item>@string/settings_section_From_the_Observer_value</item>
+
+        <item>@string/settings_section_Travel_value</item>
+
+        <item>@string/settings_section_Guardian_holiday_offers_value</item>
+
+        <item>@string/settings_section_Television_and_radio_value</item>
+
+        <item>@string/settings_section_UK_news_value</item>
+
+        <item>@string/settings_section_US_news_value</item>
+
+        <item>@string/settings_section_Voluntary_Sector_Network_value</item>
+
+        <item>@string/settings_section_Weather_value</item>
+
+        <item>@string/settings_section_Women_in_Leadership_value</item>
+
+        <item>@string/settings_section_World_news_value</item>
+    </string-array>
+</resources>
